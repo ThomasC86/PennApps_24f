@@ -1,0 +1,1 @@
+{"name":"John","birthDate":"1924-01-01","gender":"male","coldHeat":"cold","sweating":"yes","headBodyIssues":"yes","bowelMovements":"regular","diet":"balanced","chestAbdomenIssues":"yes","hearingIssues":"yes","thirst":"yes","pastIllnesses":"none","knownCauses":"none","additionalSymptoms":"I am good"}
