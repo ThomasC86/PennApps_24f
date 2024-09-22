@@ -1,6 +1,6 @@
 # PennApps_24f Tongue Analyzer
 
-![Tongue Analyzer](/images/1.png)
+![Tongue Analyzer](/images/0.png)
 
 ## Project Description
 

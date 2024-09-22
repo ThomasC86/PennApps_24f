@@ -18,4 +18,4 @@ cp .env.example .env
 echo "Please fill in the .env file with your credentials."
 
 # Start the backend server
-# npm run server
+npm run server
