@@ -15,7 +15,7 @@ cp .env.example .env
 
 ```
 
-then add credentials like
+then add credentials on .env like
 
 ```
 OLLAMA_HOST=
